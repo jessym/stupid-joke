@@ -1,0 +1,9 @@
+{
+  "name": "stupid-joke",
+  "version": "1.0.0",
+  "description": "A simple module containing random stupid jokes",
+  "main": "index.js",
+  "repository": "https://github.com/jessym/stupid-joke",
+  "author": "Jessy M.",
+  "license": "MIT"
+}
